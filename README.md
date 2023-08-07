@@ -7,3 +7,26 @@
 - The project involves analyzing customer-level data of a leading telecom firm.
 - The goal is to build predictive models to identify high-risk churn customers.
 - The project also seeks to identify the main indicators of churn.
+
+## Steps taken:
+1. Data Preparation
+    - Handling Missing Values
+    - Tag Churners
+2. EDA
+    - Univariate Analysis
+    - Bivariate Analysis
+3. Train Test Split
+4. Data Imbalance
+5. Feature Scaling
+6. Modelling with PCA
+    - Logistic Regression
+    - Decision Tree
+    - Random Forest
+7. Modelling without PCA
+    - Logistic Regression
+8. Recommendations
+
+## Notebooks:
+1. <a href=".ipynb" target="_blank">Python Commented File.</a>
+2. <a href="https://radhikakute.github.io/lead_scoring_Adwait_Faraz_Radhika/.pdf" target="_blank">Presentation PDF.</a>
+3. <a href="https://radhikakute.github.io/lead_scoring_Adwait_Faraz_Radhika/" target="_blank">README File.</a>
