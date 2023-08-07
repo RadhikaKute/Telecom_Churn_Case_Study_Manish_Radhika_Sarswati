@@ -1,4 +1,4 @@
-# Telecom_Churn_Case_Study
+# Telecom Churn Group Case Study
 ## Problem Statement:
 - Telecom industry experiences 15-25% annual churn rate due to high competition.
 - Customer retention is more cost-effective than customer acquisition (5-10 times cheaper).
