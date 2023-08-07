@@ -28,5 +28,5 @@
 
 ## Notebooks:
 1. <a href=".ipynb" target="_blank">Python Commented File.</a>
-2. <a href="https://radhikakute.github.io/lead_scoring_Adwait_Faraz_Radhika/.pdf" target="_blank">Presentation PDF.</a>
-3. <a href="https://radhikakute.github.io/lead_scoring_Adwait_Faraz_Radhika/" target="_blank">README File.</a>
+2. <a href=".pdf" target="_blank">Presentation PDF.</a>
+3. <a href="https://radhikakute.github.io/Telecom_Churn_Manish_Radhika_Sarswati/" target="_blank">README File.</a>
