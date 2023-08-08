@@ -28,5 +28,5 @@
 
 ## Notebooks:
 1. <a href="Telecom_Churn_Case_Study_Manish_Radhika_Sarswati.ipynb" target="_blank">Python Commented File.</a>
-2. <a href="https://radhikakute.github.io/Telecom_Churn_Manish_Radhika_Sarswati/Telecom Churn_PPT.pdf.pdf" target="_blank">Presentation PDF.</a>
+2. <a href="https://radhikakute.github.io/Telecom_Churn_Manish_Radhika_Sarswati/Telecom Churn_PPT.pdf" target="_blank">Presentation PDF.</a>
 3. <a href="https://radhikakute.github.io/Telecom_Churn_Manish_Radhika_Sarswati/" target="_blank">README File.</a>
